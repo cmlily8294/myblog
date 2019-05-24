@@ -75,11 +75,6 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: ocean
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
-
 search:
   path: search.xml
   field: post
@@ -91,3 +86,8 @@ excerpt:
   excerpt_excludes: []
   more_excludes: []
   hideWholePostExcerpts: true
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type:
