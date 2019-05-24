@@ -4,8 +4,8 @@
 
 # Site
 title: Lemon
-subtitle: Long's blog
-description: 曹龙的博客，前端开发
+subtitle: Long and Yang's blog
+description: 曹龙和呆洋的博客
 keywords: Lemon, Long, Frontend, Js, 前端开发
 author: Long Cao
 language: zh_CN
@@ -85,3 +85,9 @@ search:
   field: post
   format: html
   content: true
+
+excerpt:
+  depth: 6
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true

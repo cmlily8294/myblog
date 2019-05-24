@@ -1,7 +1,7 @@
 ---
 title: Flutter学习笔记
 date: 2019-05-23 16:38:09
-tags:
+tags: flutter
 ---
 
 其实按照[官方开发文档](https://flutter.io/get-started/install/)及[flutter中文网](https://flutterchina.club/get-started/install/)即可，本文仅记载我在学习过程中的一些笔记和要点。
